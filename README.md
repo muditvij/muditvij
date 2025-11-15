@@ -11,7 +11,6 @@
 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muditvij&theme=onedark)
-![snake gif](https://github.com/muditvij/muditvij/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🚀 Tech Stack
