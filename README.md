@@ -1,16 +1,13 @@
 # Hi, I'm Mudit 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=1AF7B8&center=true&vCenter=true&width=500&lines=Hi+I'm+Mudit;Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg) <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muditvij&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muditvij&layout=compact)
+
 
 <!-- Simple visitor counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=muditvij)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muditvij&theme=tokyonight)
 
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muditvij&theme=onedark)
 
 
 ## 🚀 Tech Stack
